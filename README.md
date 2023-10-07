@@ -1,5 +1,4 @@
 # MD2QTI
-# text2qti – Create quizzes in QTI format from Markdown-based plain text
 
 MD2QTI is a CLI-based tool that converts [Markdown](https://daringfireball.net/projects/markdown/)-based plain text
 files into quizzes in QTI format which is imported onto [Canvas](https://www.instructure.com/canvas/) to automatically generate quizzes.
